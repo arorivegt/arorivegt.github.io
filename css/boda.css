@@ -1,0 +1,40 @@
+body{
+	background : beige;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+}
+
+@font-face{
+	font-family: "Birds-of-Paradise";
+	src: url("../font/BirdsofParadise.ttf");
+}
+
+div{
+    position: absolute;
+    width: 100%;
+}
+
+h1,p{
+	font-family: "Birds-of-Paradise", italic;
+	font-size: 3.5em;
+	text-align: center;
+    position: relative;
+}
+
+img{
+	width: 100%;
+    position: absolute;
+    height: 552px;
+}
+
+p{
+	margin: 0;
+    margin-bottom: 28px;
+}
+
+.cajitaFeliz{
+    background: white;
+    margin-bottom: 17px;
+    padding: 10px;
+}
