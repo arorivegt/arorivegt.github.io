@@ -1,0 +1,11 @@
+body{
+	background : beige;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+}
+
+@font-face{
+	font-family: "Birds-of-Paradise";
+	src: url("../font/BirdsofParadise.ttf");
+}
